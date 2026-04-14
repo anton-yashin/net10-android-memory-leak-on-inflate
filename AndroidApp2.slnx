@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AndroidApp2.csproj">
+    <Deploy />
+  </Project>
+</Solution>
